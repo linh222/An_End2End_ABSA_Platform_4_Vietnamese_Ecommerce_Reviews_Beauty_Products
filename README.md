@@ -1,2 +1,3 @@
-# An_End2End_ABSA_Platform_4_Vietnamese_Ecommerce_Reviews_Beauty_Products
-An End-to-End Aspect-based Sentiment Analysis Platform for Vietnamese Reviews about Beauty Products on E-commerce Websites
+# An End-to-End Aspect-based Sentiment Analysis Platform for Vietnamese Reviews about Beauty Products on E-commerce Websites
+This repo is for the paper **An End-to-End Aspect-based Sentiment Analysis Platform for Vietnamese Reviews about Beauty Products on E-commerce Websites**. The solution to build an end2end platform is described here with the code and software is updated on May 2023
+
